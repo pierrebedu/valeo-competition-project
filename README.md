@@ -20,3 +20,5 @@ Le deuxième est une méthodologie simple appliquée pour proposer un modèle fi
 - courbes d'apprentissage sur les meilleurs modèles
 - pipelines aves kbest features, pca, expansion polynomiale pour adresser l'overfitting ou l'underfitting selon le modèle
 - optimisation du meilleur modèle par un gridsearch implémenté à la main
+
+NB : tester un isolation forest aurait du être fait (appris trop tard)
