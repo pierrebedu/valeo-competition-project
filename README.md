@@ -4,7 +4,7 @@ Classé 13 ième de la compétition (ma première).
 Compétition organisée par l'ENS, à partir de données réelles de l'entreprise VALEO recueillies par des capteurs sur une chaine de montage industrielle.
 Il s'agit d'un problème de classification avec classes très déséquilibrées (0.1% / 99,9%).
 
-EDA pour guider la tactique à venir et le choix des modèles:
+Premier fichier: EDA pour guider la tactique à venir et le choix des modèles:
 - localisation des valeurs manquantes
 - observation des distributions des variables selon la classe
 - observation de la corrélation des variables
