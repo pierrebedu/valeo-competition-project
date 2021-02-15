@@ -1,4 +1,4 @@
-# valeo-competition-project
+# valeo-competition
 Classé 13 ième de la compétition (ma première).
 
 Compétition organisée par l'ENS, à partir de données réelles de l'entreprise VALEO recueillies par des capteurs sur une chaine de montage industrielle.
