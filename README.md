@@ -15,13 +15,13 @@ EDA file :
 - features correlation observation
 
 MODELES file : 
-- data cleaning of meaningless data
+- data cleaning 
 - imputation techniques attempts
 - over sampling techniques (SMOTE, ADASYN, UNDER et OVERSAMPLING)
 - ROC AUC SCORE performance evaluation
 - bench with numerous modeles (logistic regression, naive bayes, trees, forests, adaboost, SVM, KNN, XGBoost)
 - learning curves
 - pipelines (kbest features, polynomial expansion, PCA,...)
-- girdsearch hyperparameters optimisation
+- hyperparameters optimisation bu gridsearch
 
 NB: IsolationForest not tried yet. Will be done with more time...
