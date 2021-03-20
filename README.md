@@ -8,7 +8,7 @@ HOW TO USE THIS ?
 - launch the EDA and modeles files in a JUPYTER environnement
 - explanations on this challenge can be read here : https://challengedata.ens.fr/participants/challenges/36/
 
-##################################################################################################################
+#########################################################################################################
 EDA file : 
 - localisation of NaNs
 - features distribution comparison regarding to their status (OK or KO)
