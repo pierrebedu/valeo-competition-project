@@ -4,7 +4,7 @@ The goal of the challenge is to predict defect on starter motor production lines
 Classification task over imbalanced data (0.1% / 99,9%).
 
 HOW TO USE THIS ?
-- download thh dataset
+- download the dataset
 - launch the EDA and modeles files in a JUPYTER environnement
 - explanations on this challenge can be read here : https://challengedata.ens.fr/participants/challenges/36/
 
