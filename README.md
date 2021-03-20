@@ -1,6 +1,7 @@
 # valeo-challenge 2020 by ENS -> 13th
 
 The goal of the challenge is to predict defect on starter motor production lines (real data!)
+
 Classification task over imbalanced data (0.1% / 99,9%).
 
 HOW TO USE THIS ?
