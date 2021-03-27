@@ -4,7 +4,7 @@ The goal of the challenge is to predict defect on starter motor production lines
 Classification task over imbalanced data (0.1% / 99,9%).
 
 //code needs cleaning : In progress... //
-#############################################################################################################
+#########################################################################################################
 
 HOW TO USE THIS ?
 - download the dataset
